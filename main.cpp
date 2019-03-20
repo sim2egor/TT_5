@@ -7,6 +7,7 @@
 #include <QApplication>
 #include <QQmlContext>
 
+// edit2
 int main(int argc, char *argv[])
 {
 
