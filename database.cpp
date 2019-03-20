@@ -1,5 +1,5 @@
 #include "database.h"
-// edit1
+
 
 DataBase::DataBase(QObject *parent) : QObject(parent)
 {
